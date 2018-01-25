@@ -1,20 +1,22 @@
-# Devamp Portfolio application
+# Devcamp Portfolio Application
 
->This is a Ruby on Rails 5 application.
+> This is a Ruby on Rails 5 application that allows users to create their own portfolios.
 
-###Features
+### Features
 
 - Real time chat engine for comments
-- Blog 
+- Blog
 - Portfolio
 - Drag and drop interface
 
-### Code Exampple
+### Code Example
 
 ```ruby
-def mygreatmethod
-	puts "method"
-	end
+def my_great_method
+  puts "here it is"
+end
 ```
 
-
+```javascript
+alert('Hi there');
+```
